@@ -1,1 +1,0 @@
-lftp -c "get -c file:///C:\Users\percy\OneDrive\Desktop\BigDataAssessment2\big-data-assessment-2\final dataset.csv"

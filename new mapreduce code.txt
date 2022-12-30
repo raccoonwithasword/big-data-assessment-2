@@ -1,0 +1,28 @@
+from mrjob.job import MRJob
+
+class BrandsBreakdown(MRJob):
+  def mapper(self,_,line):
+    dataset = line.split(',')
+    p_id = dataset[1]
+    name = dataset[2]
+    price = float(dataset[3])
+    colour = dataset[4]
+    brand = dataset[5]
+    ratingCount = float(dataset[6])
+    avg_rating = float(dataset[7])
+    yield brand, price
+
+
+  def reducer(self, key, values):
+
+    total = 0
+    count = 0
+
+    for i in price:
+      total += i
+      count += 1
+
+    yield brand, total/count
+
+if __name__ == '__main__':
+    BrandsBreakdown.run()
