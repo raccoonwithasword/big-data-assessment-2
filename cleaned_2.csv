@@ -191,7 +191,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 12413214.0,Varanga Women Mustard Yellow Floral Yoke Embroidered Straight Kurta,1999.0,Mustard,Varanga,2426.0,4.254328112,Daily,Floral,Regular,Woven,Cotton,Pure,892
 12865416.0,Chkokko Women Black Side Panelled Regular Fit Double Layered Running Shorts,2665.0,Black,Chkokko,291.0,4.182130584,Sports,Solid,Regular,Knitted,Polyester,,165
 14088428.0,SheWill Mustard Brown & Green Cotton Blend Unstitched Dress Material,3199.0,Mustard,SheWill,96.0,4.03125,Daily,Ethnic Motifs,Regular,Knitted and Woven,Cotton Blend,,775
-15546696.0,Sangria Women Maroon Kaani Woollen Woven Shawl,2699.0,Maroon,Sangria,10.0,4.3,Daily,Floral,Regular,Knit,Other,Pure,762
+15546696.0,Sangria Women Maroon Kaani Woollen Woven Shawl,2699.0,Maroon,Sangria,10.0,4.3,Daily,Floral,Regular,Knitted,Other,Pure,762
 15546696.0,Sangria Women Maroon Kaani Woollen Woven Shawl,2699.0,Maroon,Sangria,10.0,4.3,Daily,Floral,Regular,Woven,Other,Pure,762
 15954768.0,My Little Lambs Girls Pink Checked & Printed Pure Cotton Top & Tiered Skirt,3250.0,Pink,My Little Lambs,72.0,4.208333333,Casual,Woven Design,Regular,Knitted and Woven,Cotton,,558
 17124538.0,H&M Women White Rib-Knit Cardigan,1499.0,White,H&M,86.0,4.662790698,Casual,Ribbed,Regular,Knitted,Cotton,,323
@@ -749,7 +749,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 18075162.0,saubhagya Peach-Coloured & Purple Embellished Ready to Wear Lehenga & Blouse With Dupatta,3999.0,Peach,saubhagya,7.0,4.571428571,Casual,Embellished,Regular,Knitted and Woven,Cotton,,1006
 18434326.0,luyk Girls Pink Tropical Floral Print Above-Knee Skirts,1399.0,Pink,luyk,,,Casual,Floral,Regular,Woven,Viscose Rayon,,993
 18869982.0,Heart Up My Sleeves Women Black Emily in Paris Pleated Sleeves Lapel Shrug,1450.0,Black,Heart Up My Sleeves,,,Casual,Self Design,Regular,Knitted and Woven,Polyester,,340
-19087930.0,Swtantra Women Grey Solid Deep V Neck Saree Blouse,2799.0,Grey,Swtantra,,,Party,Solid,Regular,Knit,Other,,808
+19087930.0,Swtantra Women Grey Solid Deep V Neck Saree Blouse,2799.0,Grey,Swtantra,,,Party,Solid,Regular,Knitted,Other,,808
 19087930.0,Swtantra Women Grey Solid Deep V Neck Saree Blouse,2799.0,Grey,Swtantra,,,Party,Solid,Regular,Woven,Other,,808
 19143562.0,Shaily Green & Pink Embroidered Pure Cotton Unstitched Dress Material,3059.0,Green,Shaily,,,Festive,Floral,Regular,Knitted and Woven,Pure Cotton,,774
 19308926.0,Allen Solly Woman Maroon Mandarin Collar Shirt Style Top,1699.0,Maroon,Allen Solly Woman,,,Casual,Solid,Regular,Knitted and Woven,Polyester,,63
@@ -1194,7 +1194,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 10604590.0,SASSAFRAS Women Black Solid Double-Breasted Casual Blazer,2599.0,Black,SASSAFRAS,22.0,4.090909091,Casual,Solid,Regular,Knitted and Woven,Polyester,,720
 10717820.0,Bhama Couture Women Blue Embroidered Detail Chambray A-Line Pure Cotton Top,1699.0,Navy Blue,Bhama Couture,60.0,4.083333333,Ethnic,Solid,Regular,Woven,Pure Cotton,,123
 12336742.0,Clora Creation Yellow & Magenta Bandhani Gotta Patti Silk Dupatta,1599.0,Yellow,Clora Creation,55.0,4.2,Party,Bandhani,Regular,Knitted and Woven,Silk Blend,,167
-12798408.0,SALWAR STUDIO Women Gold-Coloured Embroidered Readymade Saree Blouse,4425.0,Gold,SALWAR STUDIO,187.0,3.946524064,Festive,Embroidered,Regular,Knit,Other,,716
+12798408.0,SALWAR STUDIO Women Gold-Coloured Embroidered Readymade Saree Blouse,4425.0,Gold,SALWAR STUDIO,187.0,3.946524064,Festive,Embroidered,Regular,Knitted,Other,,716
 12798408.0,SALWAR STUDIO Women Gold-Coloured Embroidered Readymade Saree Blouse,4425.0,Gold,SALWAR STUDIO,187.0,3.946524064,Festive,Embroidered,Regular,Woven,Other,,716
 13847276.0,NEUDIS Women Black Solid Pencil Midi Skirt,1099.0,Black,NEUDIS,187.0,4.304812834,Casual,Solid,Regular,Woven,Polyester,,568
 14280266.0,Harvard Women Sea Green& Navy Colourblocked Padded Jacket,3199.0,Sea Green,Harvard,64.0,4.328125,Casual,Colourblocked,Regular,Woven,Polyester,,337
@@ -2085,7 +2085,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 19123636.0,FableStreet Women Maroon Comfort Flared High-Rise Trousers,2695.0,Maroon,FableStreet,,,Formal,Solid,Regular,Knitted,Viscose Rayon,,272
 19186654.0,FabAlley Black Print Crepe Shirt Style Top,1500.0,Black,FabAlley,,,Casual,Polka Dots,Regular,Woven,Polyester,,266
 19232080.0,N-Gal Women Maroon Solid Skater Above Knee-Length Skirts,799.0,Maroon,N-Gal,,,Casual,Solid,Regular,Knitted,Polyester,,561
-19308762.0,Triyah Women Black Solid Saree Blouse,1999.0,Black,Triyah,,,Party,Solid,Regular,Knit,Other,,852
+19308762.0,Triyah Women Black Solid Saree Blouse,1999.0,Black,Triyah,,,Party,Solid,Regular,Knitted,Other,,852
 19308762.0,Triyah Women Black Solid Saree Blouse,1999.0,Black,Triyah,,,Party,Solid,Regular,Woven,Other,,852
 7240789.0,CACA CINA Girls Red Georgette Polka Dot Top,899.0,Red,CACA CINA,1352.0,4.171597633,Casual,Polka Dots,,Woven,Polyester,,139
 11166528.0,Rajnandini Turquoise Blue & Pink Silk Blend Unstitched Dress Material,3312.0,Turquoise Blue,Rajnandini,7.0,3.857142857,Festive,Floral,Regular,Woven,Shantoon,,687
@@ -2427,7 +2427,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 18376970.0,kriatma Women Peach Solid Cotton Mini Skirts,2499.0,Peach,kriatma,,,Casual,Solid,Sustainable,Woven,Pure Cotton,,992
 18676656.0,Ethnic Yard Black & Red Semi-Stitched Lehenga & Unstitched Blouse With Dupatta,3699.0,Black,Ethnic Yard,,,Casual,Printed,Regular,Woven,Raw Silk,,238
 18676804.0,Gini and Jony Pink Print Top,449.0,Pink,Gini and Jony,,,Casual,Conversational,Regular,Knitted,Cotton Blend,,312
-18923930.0,Swtantra Women Black Solid Net Saree Blouse,2799.0,Black,Swtantra,,,Party,Solid,Regular,Knit,Other,,808
+18923930.0,Swtantra Women Black Solid Net Saree Blouse,2799.0,Black,Swtantra,,,Party,Solid,Regular,Knitted,Other,,808
 18923930.0,Swtantra Women Black Solid Net Saree Blouse,2799.0,Black,Swtantra,,,Party,Solid,Regular,Woven,Other,,808
 19209764.0,SEW YOU SOON Women White & Orange-Colored Floral Printed Crop Top & Palazzo Co-Ords,1599.0,White,SEW YOU SOON,,,Party,Printed,Regular,Woven,Poly Georgette,,726
 9967233.0,Vishudh Women Green Printed Tunic,1349.0,Green,Vishudh,350.0,3.8,Ethnic,Printed,,Knitted and Woven,Viscose Rayon,,901
@@ -2763,7 +2763,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 18961738.0,Athena Teal Embellished Off-Shoulder Smocked Crop Top,1699.0,Teal,Athena,5.0,3.6,Party,Embellished,Regular,Woven,Polyester,,86
 19043664.0,Charu Women Peach-Coloured Yoke Design Kurta,3199.0,Peach,Charu,,,Daily,Embellished,Regular,Woven,Viscose Rayon,Pure,158
 19242746.0,Biba Green & Gold-Toned Unstitched Dress Material,4999.0,Green,Biba,,,Festive,Floral,Regular,Knitted and Woven,Cotton Blend,,125
-19308884.0,Triyah Women Blue Printed Angrakha Saree Blouse,2499.0,Blue,Triyah,,,Work,Printed,Regular,Knit,Other,,852
+19308884.0,Triyah Women Blue Printed Angrakha Saree Blouse,2499.0,Blue,Triyah,,,Work,Printed,Regular,Knitted,Other,,852
 19308884.0,Triyah Women Blue Printed Angrakha Saree Blouse,2499.0,Blue,Triyah,,,Work,Printed,Regular,Woven,Other,,852
 1852518.0,Dupatta Bazaar Red & Orange Silk Bandhani Print Dupatta,2399.0,Red,Dupatta Bazaar,11.0,3.727272727,Party,Bandhani,,Knitted and Woven,Cotton,,221
 1937040.0,Roadster Women Purple Solid Sweatshirt,1099.0,Purple,Roadster,1174.0,4.254684838,Casual,Solid,,Knitted and Woven,Cotton,,702
@@ -2875,7 +2875,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 18624778.0,ONLY Women Black french middle red purple Denim Jacket,3699.0,Black,ONLY,,,Casual,Solid,Regular,Woven,Cotton,,597
 18652572.0,Dupatta Bazaar Olive Green Printed Tie and Dye Dupatta,499.0,Olive,Dupatta Bazaar,5.0,4.4,Daily,Bandhani,Regular,Woven,Poly Chiffon,,221
 18787988.0,Monte Carlo Women Grey Comfort Slim Fit Stretchable Jeans,2099.0,Grey,Monte Carlo,,,Casual,Solid,Regular,Knitted and Woven,Cotton,,556
-18923938.0,Swtantra Women Green Solid Shimmer Cape Saree Blouse,2499.0,Green,Swtantra,,,Party,Solid,Regular,Knit,Other,,808
+18923938.0,Swtantra Women Green Solid Shimmer Cape Saree Blouse,2499.0,Green,Swtantra,,,Party,Solid,Regular,Knitted,Other,,808
 18923938.0,Swtantra Women Green Solid Shimmer Cape Saree Blouse,2499.0,Green,Swtantra,,,Party,Solid,Regular,Woven,Other,,808
 19372814.0,White World Girls Magenta & Cream-Coloured Mirror Work Ready to Wear Lehenga &,4999.0,Magenta,White World,,,Casual,Woven Design,Regular,Knitted and Woven,Silk,,916
 9791977.0,Clora Creation Women White Embroidered Straight Palazzos,999.0,White,Clora Creation,1066.0,4.128517824,Ethnic,Floral,,Woven,Viscose Rayon,,167
@@ -3211,7 +3211,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 18130248.0,Ojjasvi Women White Geometric Lace Kurta,1499.0,White,Ojjasvi,28.0,4.5,Daily,Geometric,Regular,Woven,Polyester,Blended,604
 18320590.0,abof Classic White Solid Bra Top & Vest,699.0,White,abof,,,Casual,Solid,Regular,Knitted,Cotton Blend,,958
 18507548.0,NA-KD Green Solid Mini Pencil Skirt,3399.0,Green,NA-KD,,,Casual,Solid,Regular,Knitted,Organic Cotton,,562
-18669932.0,Saaki Fuchsia-Pink & Gold-Colored Printed Saree Blouse,1299.0,Fuchsia,Saaki,,,Daily,Printed,Regular,Knit,Other,,757
+18669932.0,Saaki Fuchsia-Pink & Gold-Colored Printed Saree Blouse,1299.0,Fuchsia,Saaki,,,Daily,Printed,Regular,Knitted,Other,,757
 18669932.0,Saaki Fuchsia-Pink & Gold-Colored Printed Saree Blouse,1299.0,Fuchsia,Saaki,,,Daily,Printed,Regular,Woven,Other,,757
 2039877.0,Jaipur Kurti Women Yellow Solid Regular Trousers,1299.0,Yellow,Jaipur Kurti,313.0,4.274760383,Casual,Solid,,Woven,Cotton,,391
 7648572.0,mf White Embroidered Dupatta,1299.0,White,mf,59.0,3.898305085,Daily,Floral,,Knitted and Woven,Cotton Blend,,995
@@ -3701,7 +3701,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 15149572.0,Just Wow Women Maroon Flared Knitted Georgette Palazzos,1998.0,Maroon,Just Wow,41.0,4.048780488,Western,Solid,Regular,Knitted,Georgette,,405
 15864064.0,URBANIC Women Brown & Black Animal Printed Flared Trousers,1990.0,Brown,URBANIC,6.0,4.5,Casual,Animal,Regular,Woven,Polyester,,864
 16955366.0,emeros Light Pink & Navy Blue Floral Printed Pleated Flared Skirt,1599.0,Pink,emeros,11.0,4.0,Casual,Floral,Regular,Knitted,Polyester,,978
-17174396.0,Ira Soleil Women Silver-Coloured Shimmer Embellished Saree Blouse,1999.0,Silver,Ira Soleil,17.0,2.823529412,Party,Embellished,Regular,Knit,Other,,374
+17174396.0,Ira Soleil Women Silver-Coloured Shimmer Embellished Saree Blouse,1999.0,Silver,Ira Soleil,17.0,2.823529412,Party,Embellished,Regular,Knitted,Other,,374
 17174396.0,Ira Soleil Women Silver-Coloured Shimmer Embellished Saree Blouse,1999.0,Silver,Ira Soleil,17.0,2.823529412,Party,Embellished,Regular,Woven,Other,,374
 17348916.0,JC Collection Women Blue & Pink Printed Top with Skirt,5699.0,Blue,JC Collection,,,Casual,Printed,Regular,Knitted and Woven,Polyester,,386
 18121946.0,Athena Women Elegant Lavender Solid Noughties Spaghetti Jumpsuit,2799.0,Lavender,Athena,,,Casual,Solid,Regular,Knitted and Woven,Polyester,,86
@@ -4090,7 +4090,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 18813862.0,Mitera White & Green Embroidered Sequinned Semi-Stitched Lehenga & Unstitched Blouse With Dupatta,3999.0,White,Mitera,,,Casual,Embroidered,Regular,Knitted and Woven,Silk,,548
 18840960.0,Styli Off White Tie-Up Neck Top,899.0,Off White,Styli,,,Casual,Self Design,Regular,Woven,Cotton Blend,,796
 12136646.0,Ethnic Junction Black & Gold Mirror Work Unstitched Dress Material,1998.0,Black,Ethnic Junction,34.0,3.705882353,Festive,Geometric,Regular,Woven,Shantoon,,237
-13405970.0,SALWAR STUDIO Women Gold-Coloured Embroidered Readymade Blouse,4825.0,Gold,SALWAR STUDIO,105.0,4.114285714,Festive,Embroidered,Regular,Knit,Other,,716
+13405970.0,SALWAR STUDIO Women Gold-Coloured Embroidered Readymade Blouse,4825.0,Gold,SALWAR STUDIO,105.0,4.114285714,Festive,Embroidered,Regular,Knitted,Other,,716
 13405970.0,SALWAR STUDIO Women Gold-Coloured Embroidered Readymade Blouse,4825.0,Gold,SALWAR STUDIO,105.0,4.114285714,Festive,Embroidered,Regular,Woven,Other,,716
 13501842.0,Uptownie Lite Women Black Solid Dhoti Jumpsuit,2399.0,Black,Uptownie Lite,27.0,4.037037037,Casual,Solid,Regular,Knitted and Woven,Polyester,,869
 13872392.0,Mayra Pink Crepe Regular Top,1195.0,Pink,Mayra,,,Ethnic,Solid,Regular,Woven,Polyester,,535
@@ -4208,7 +4208,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 15043268.0,DART STUDIO Off White Linen Regular Top,2900.0,Off White,DART STUDIO,,,Ethnic,Solid,Regular,Woven,Linen,,185
 15144126.0,Stylee LIFESTYLE Maroon & Gold-Toned Embroidered Semi-Stitched Dress Material,13599.0,Maroon,Stylee LIFESTYLE,,,Festive,Other,Regular,Woven,Shantoon,,795
 15427982.0,Chkokko Women Multicoloured Floral Sporty Jacket,3330.0,Multi,Chkokko,2.0,4.5,Casual,Floral,Regular,Woven,Polyester,,165
-15443652.0,Desi Weavess Women Black & Gold-Toned Foil Printed Saree Blouse,1999.0,Black,Desi Weavess,48.0,3.9375,Party,Printed,Regular,Knit,Other,,207
+15443652.0,Desi Weavess Women Black & Gold-Toned Foil Printed Saree Blouse,1999.0,Black,Desi Weavess,48.0,3.9375,Party,Printed,Regular,Knitted,Other,,207
 15443652.0,Desi Weavess Women Black & Gold-Toned Foil Printed Saree Blouse,1999.0,Black,Desi Weavess,48.0,3.9375,Party,Printed,Regular,Woven,Other,,207
 15520698.0,Indo Era Women Navy Blue Floral Yoke Design Kurta,2599.0,Navy Blue,Indo Era,100.0,4.28,Festive,Floral,Regular,Woven,Cotton,Pure,370
 16222490.0,Tokyo Talkies Women Navy Blue Flared Velvet Bootcut Trousers,1549.0,Navy Blue,Tokyo Talkies,9.0,4.666666667,Casual,Solid,Regular,Knitted,Polyester,,845
@@ -4758,7 +4758,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 10977146.0,MERLOT Women Olive Green Solid Water Resistant Crop Denim Jacket,4751.0,Olive,MERLOT,,,Casual,Solid,,Knitted and Woven,Cotton,,504
 14774968.0,DressBerry Women Olive Green Solid Midi A-Line Skirt,1599.0,Olive,DressBerry,13.0,4.461538462,Casual,Solid,Regular,Woven,Polyester,,220
 15959952.0,H&M Women Black Jersey playsuit,1299.0,Black,H&M,,,Casual,Solid,Regular,Knitted and Woven,Polyester,,323
-16286236.0,Studio Shringaar Women Maroon Solid Saree Blouse,1450.0,Maroon,Studio Shringaar,15.0,4.4,Daily,Solid,Regular,Knit,Other,,792
+16286236.0,Studio Shringaar Women Maroon Solid Saree Blouse,1450.0,Maroon,Studio Shringaar,15.0,4.4,Daily,Solid,Regular,Knitted,Other,,792
 16286236.0,Studio Shringaar Women Maroon Solid Saree Blouse,1450.0,Maroon,Studio Shringaar,15.0,4.4,Daily,Solid,Regular,Woven,Other,,792
 16583226.0,20Dresses Women Black Plus Size Cotton Sweatshirt,1795.0,Black,20Dresses,,,Casual,Solid,Regular,Knitted,Cotton,,2
 16701486.0,CODE by Lifestyle Women Pink Shrug,1299.0,Pink,CODE by Lifestyle,15.0,4.333333333,Casual,Solid,Regular,Knitted and Woven,Polyester,,143
@@ -4816,7 +4816,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 17633706.0,Saree Swarg Green & Yellow Printed Tunic,1650.0,Green,Saree Swarg,,,Ethnic,Printed,Regular,Knitted and Woven,Polyester,,764
 17650092.0,DIVASTRI Navy Blue & Rose Gold Semi-Stitched Lehenga & Unstitched Blouse With Dupatta,5999.0,Navy Blue,DIVASTRI,,,Casual,Woven Design,Regular,Woven,Art Silk,,194
 18433000.0,FOREVER 21 Women Pink Sweatshirt,899.0,Pink,FOREVER 21,,,Casual,Solid,Regular,Knitted and Woven,Cotton,,259
-18450074.0,SALWAR STUDIO Gold-Colored Embroidered Saree Blouse,4895.0,Gold,SALWAR STUDIO,,,Festive,Embroidered,Regular,Knit,Other,,716
+18450074.0,SALWAR STUDIO Gold-Colored Embroidered Saree Blouse,4895.0,Gold,SALWAR STUDIO,,,Festive,Embroidered,Regular,Knitted,Other,,716
 18450074.0,SALWAR STUDIO Gold-Colored Embroidered Saree Blouse,4895.0,Gold,SALWAR STUDIO,,,Festive,Embroidered,Regular,Woven,Other,,716
 18642956.0,URBANIC Women Yellow Ribbed Co-Ords,1690.0,Yellow,URBANIC,,,Casual,Solid,Regular,Knitted and Woven,Polyester,,864
 19008506.0,Calvin Klein Jeans Women Blue Straight Fit High-Rise Stretchable Jeans,7999.0,Blue,Calvin Klein Jeans,,,Casual,Solid,Regular,Knitted and Woven,Cotton,,149
@@ -4867,7 +4867,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 17760268.0,Jinfo Women Black Solid Cycling Shorts Pack Of 3,1797.0,Black,Jinfo,,,Sports,Solid,Regular,Knitted,Cotton,,397
 18656006.0,BoStreet Women White & Blue Dyed Top with Shorts,2199.0,White,BoStreet,,,Casual,Dyed,Regular,Knitted and Woven,Polyester,,133
 18672276.0,Xenilla Blue & Gold-Toned Embroidered Semi-Stitched Lehenga & Blouse With Dupatta,1899.0,Blue,Xenilla,,,Casual,Embroidered,Regular,Woven,Velvet,,924
-18923944.0,Swtantra Women Magenta Solid Padded Saree Blouse,2499.0,Magenta,Swtantra,,,Party,Solid,Regular,Knit,Other,,808
+18923944.0,Swtantra Women Magenta Solid Padded Saree Blouse,2499.0,Magenta,Swtantra,,,Party,Solid,Regular,Knitted,Other,,808
 18923944.0,Swtantra Women Magenta Solid Padded Saree Blouse,2499.0,Magenta,Swtantra,,,Party,Solid,Regular,Woven,Other,,808
 19040558.0,KARAJ JAIPUR Women Green Floral Anarkali Pure Cotton Kurta with Pant & Dupatta,4295.0,Green,KARAJ JAIPUR,,,Daily,Floral,Regular,Woven,Pure Cotton,,411
 10321401.0,Belle Fille Women Sea Green Solid Tailored Jacket,1999.0,Sea Green,Belle Fille,,,Casual,Solid,,Knitted and Woven,Cotton,,115
@@ -5185,7 +5185,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 17969902.0,MANGO Women Pink Solid Straight Slim Fit Seams Mini Skirt,3790.0,Pink,MANGO,,,Casual,Solid,Regular,Woven,Polyester,,498
 18273212.0,Dupatta Bazaar Cream-Coloured & Silver-Toned Embroidered Pure Cotton Dupatta,3499.0,Cream,Dupatta Bazaar,,,Party,Floral,Regular,Knitted and Woven,Pure Cotton,,221
 18283170.0,Aarika Girls Navy Blue & Magenta Embroidered Ready to Wear Lehenga & Blouse With Dupatta,2499.0,Navy Blue,Aarika,,,Casual,Solid,Regular,Knitted and Woven,Silk,,46
-18939878.0,Soch Women Black Sequin Embellished Net Saree Blouse,1998.0,Black,Soch,,,Festive,Embroidered,Regular,Knit,Other,,787
+18939878.0,Soch Women Black Sequin Embellished Net Saree Blouse,1998.0,Black,Soch,,,Festive,Embroidered,Regular,Knitted,Other,,787
 18939878.0,Soch Women Black Sequin Embellished Net Saree Blouse,1998.0,Black,Soch,,,Festive,Embroidered,Regular,Woven,Other,,787
 19187478.0,Blamblack Women Blue & Dark-Grey Printed Top & Bottom Co-Ords,2390.0,Blue,Blamblack,,,Casual,Solid,Regular,Knitted and Woven,Cotton Blend,,129
 19259294.0,Belliskey Women White Solid High-Rise Mildly Distressed Jeans,2799.0,White,Belliskey,,,Casual,Solid,Regular,Knitted and Woven,Cotton,,116
@@ -5287,7 +5287,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 18613910.0,THE SILHOUETTE STORE Women Blue & Black Printed Top with Skirt,5499.0,Blue,THE SILHOUETTE STORE,,,Casual,Printed,Regular,Knitted and Woven,Polyester,,818
 18750736.0,Stylee LIFESTYLE Beige & Red Unstitched Dress Material,6999.0,Beige,Stylee LIFESTYLE,,,Festive,Floral,Regular,Knitted and Woven,Silk Blend,,795
 12918444.0,AGIL ATHLETICA Women Olive Green Solid Tailored Jacket,3098.0,Olive,AGIL ATHLETICA,,,Casual,Solid,Regular,Knitted,Fleece,,21
-13419716.0,Studio Shringaar Women Off-White & Brown Printed Saree Blouse,1250.0,Off White,Studio Shringaar,26.0,4.230769231,Daily,Printed,Regular,Knit,Other,,792
+13419716.0,Studio Shringaar Women Off-White & Brown Printed Saree Blouse,1250.0,Off White,Studio Shringaar,26.0,4.230769231,Daily,Printed,Regular,Knitted,Other,,792
 13419716.0,Studio Shringaar Women Off-White & Brown Printed Saree Blouse,1250.0,Off White,Studio Shringaar,26.0,4.230769231,Daily,Printed,Regular,Woven,Other,,792
 13430112.0,ONLY Women Green Self Design Boxy Top,1999.0,Green,ONLY,25.0,4.04,Casual,Self Design,Regular,Woven,Viscose Rayon,,597
 16012536.0,Fabindia Blue Embroidered Tunic,2690.0,Blue,Fabindia,,,Ethnic,Embroidered,Regular,Knitted and Woven,Cotton,,271
@@ -5831,7 +5831,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 17765672.0,HERE&NOW Women Yellow Solid Floral Embroidery A-line Kurta,2299.0,Yellow,HERE&NOW,,,Daily,Floral,Regular,Woven,Cotton,Pure,325
 18242692.0,Ira Soleil Pink Floral Print Satin Net Crop Top,2999.0,Pink,Ira Soleil,,,Ethnic,Floral,Regular,Woven,Satin,,374
 19104006.0,Granthva Fab Blue & Silver-Toned Embroidered Sequinned Semi-Stitched Lehenga & Unstitched Blouse With,3999.0,Blue,Granthva Fab,,,Casual,Embroidered,Regular,Knitted and Woven,Silk,,321
-19289752.0,LINARO LIFESTYLES Women Black Sequinned Frill Saree Blouse,2499.0,Black,LINARO LIFESTYLES,,,Festive,Embellished,Regular,Knit,Other,,462
+19289752.0,LINARO LIFESTYLES Women Black Sequinned Frill Saree Blouse,2499.0,Black,LINARO LIFESTYLES,,,Festive,Embellished,Regular,Knitted,Other,,462
 19289752.0,LINARO LIFESTYLES Women Black Sequinned Frill Saree Blouse,2499.0,Black,LINARO LIFESTYLES,,,Festive,Embellished,Regular,Woven,Other,,462
 2413930.0,Splash Rust Brown Tasselled Waterfall Shrug,3999.0,Rust,Splash,,,Casual,Solid,,Knitted and Woven,Polyester,,791
 11530694.0,Mitera Peach-Coloured & Gold-Toned Embroidered Semi-Stitched Lehenga & Unstitched Blouse with Dupatta,6248.0,Peach,Mitera,2.0,5.0,Festive,Embroidered,,Knitted and Woven,Silk,,548
@@ -5987,7 +5987,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 15795774.0,Chhabra 555 Yellow Banarasi Woven Designed Unstitched Dress Material,4400.0,Yellow,Chhabra 555,,,Festive,Ethnic Motifs,Sustainable,Knitted and Woven,Cotton Blend,,162
 17403434.0,I Saw It First Women White & Blue Floral Printed Skort Playsuit,3199.0,White,I Saw It First,,,Casual,Printed,Regular,Knitted and Woven,Polyester,,351
 17681968.0,SHUBHKALA Mustard Yellow & Pink Semi-Stitched Lehenga & Unstitched Blouse With Dupatta,26500.0,Mustard,SHUBHKALA,,,Casual,Embroidered,Regular,Woven,Art Silk,,740
-17748554.0,SALWAR STUDIO  Women's Silver Polyester Solid Readymade Stretchable Saree Blouse,1075.0,Silver,SALWAR STUDIO,,,Festive,Solid,Regular,Knit,Other,,716
+17748554.0,SALWAR STUDIO  Women's Silver Polyester Solid Readymade Stretchable Saree Blouse,1075.0,Silver,SALWAR STUDIO,,,Festive,Solid,Regular,Knitted,Other,,716
 17748554.0,SALWAR STUDIO  Women's Silver Polyester Solid Readymade Stretchable Saree Blouse,1075.0,Silver,SALWAR STUDIO,,,Festive,Solid,Regular,Woven,Other,,716
 18073676.0,SOUNDARYA Women Green & Gold-Toned Printed Pure Cotton Dupatta,1499.0,Green,SOUNDARYA,,,Party,Geometric,Regular,Knitted and Woven,Pure Cotton,,746
 19057692.0,Monte Carlo Women Black Cardigan,1620.0,Black,Monte Carlo,,,Casual,Solid,Regular,Knitted,Wool,,556
@@ -6606,7 +6606,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 17445358.0,Vishudh Women Purple Printed Kurta with Sharara & With Dupatta,2849.0,Purple,Vishudh,,,Festive,Geometric,Regular,Woven,Viscose Rayon,,901
 17644800.0,KASSUALLY Women Olive Green Solid Pure Cotton Denim Skirt,1899.0,Olive,KASSUALLY,,,Casual,Solid,Regular,Woven,Pure Cotton,,412
 18600642.0,Tokyo Talkies Women Classic White Solid Top with Trousers,1249.0,White,Tokyo Talkies,21.0,3.952380952,Casual,Solid,Regular,Knitted and Woven,Cotton Blend,,845
-18923932.0,Swtantra Women Black Embellished Saree Blouse,1999.0,Black,Swtantra,,,Party,Embellished,Regular,Knit,Other,,808
+18923932.0,Swtantra Women Black Embellished Saree Blouse,1999.0,Black,Swtantra,,,Party,Embellished,Regular,Knitted,Other,,808
 18923932.0,Swtantra Women Black Embellished Saree Blouse,1999.0,Black,Swtantra,,,Party,Embellished,Regular,Woven,Other,,808
 19171482.0,ONLY Women Beige Colourblocked Longline Tailored Jacket,6499.0,Beige,ONLY,,,Casual,Graphic,Regular,Woven,Polyester,,597
 19239776.0,aarbee Women Green & Yellow Floral Cardigan,1499.0,Green,aarbee,,,Casual,Floral,Regular,Knitted,Acrylic,,955
@@ -7128,7 +7128,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 16082254.0,plusS Women Plus Size Navy Blue Sweatshirt,3380.0,Navy Blue,plusS,4.0,4.25,Casual,Solid,Regular,Knitted,Fleece,,1003
 16099224.0,Diwaah Women Black & Gold-Toned Embellished Coat with Skirt,12880.0,Black,Diwaah,,,Casual,Embellished,Regular,Knitted and Woven,Cotton Blend,,214
 16524360.0,SHUBHVASTRA Red & Gold Embroidered Semi-Stitched Lehenga & Unstitched Blouse With Dupatta,26000.0,Red,SHUBHVASTRA,,,Casual,Embroidered,Regular,Woven,Velvet,,741
-16758772.0,flaher Women Green & Off-White Embroidered Padded Saree Blouse,3999.0,Green,flaher,9.0,4.555555556,Festive,Embroidered,Regular,Knit,Other,,982
+16758772.0,flaher Women Green & Off-White Embroidered Padded Saree Blouse,3999.0,Green,flaher,9.0,4.555555556,Festive,Embroidered,Regular,Knitted,Other,,982
 16758772.0,flaher Women Green & Off-White Embroidered Padded Saree Blouse,3999.0,Green,flaher,9.0,4.555555556,Festive,Embroidered,Regular,Woven,Other,,982
 16860376.0,all about you Women Navy Blue Flared High-Rise Stretchable Jeans,2499.0,Navy Blue,all about you,32.0,4.71875,Casual,Solid,Regular,Knitted and Woven,Cotton,,960
 17149934.0,Ancestry Women Maroon Crop Tailored Jacket,2990.0,Maroon,Ancestry,,,Casual,Striped,Regular,Woven,Cotton,,72
@@ -7714,7 +7714,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 18261032.0,Kesarya Green & Pink Embellished Tie and Dye Ready to Wear Lehenga & Unstitched Blouse With Dupatta,7999.0,Green,Kesarya,,,Casual,Embellished,Regular,Knitted and Woven,Cotton,,436
 18431604.0,SHAVYA Pink & White Printed Unstitched Dress Material,3599.0,Pink,SHAVYA,,,Daily,Striped,Regular,Knitted and Woven,Cotton Blend,,731
 18851408.0,Ahalyaa Women Floral Poly Silk Desi Girl Kurta Set,4600.0,Burgundy,Ahalyaa,,,Festive,Floral,Regular,Woven,Poly Silk,,55
-19087910.0,Swtantra Women Cream Solid Saree Blouse,2499.0,Cream,Swtantra,,,Party,Solid,Regular,Knit,Other,,808
+19087910.0,Swtantra Women Cream Solid Saree Blouse,2499.0,Cream,Swtantra,,,Party,Solid,Regular,Knitted,Other,,808
 19087910.0,Swtantra Women Cream Solid Saree Blouse,2499.0,Cream,Swtantra,,,Party,Solid,Regular,Woven,Other,,808
 19177748.0,Vero Moda Women Blue Bootcut High-Rise Mildly Distressed Heavy Fade Jeans,3999.0,Blue,Vero Moda,,,Casual,Solid,Regular,Knitted and Woven,Cotton,,898
 19214642.0,BoStreet Red Self-Design Asymmetric Neck Top,1999.0,Red,BoStreet,,,Casual,Solid,Regular,Knitted,Polyester,,133
@@ -7822,7 +7822,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 18508852.0,DRESSTIVE Grey Embroidered Mukaish Semi-Stitched Lehenga & Unstitched Blouse With Dupatta,4500.0,Grey,DRESSTIVE,,,Casual,Embroidered,Regular,Woven,Poly Georgette,,201
 18872544.0,URBANIC Women White Relaxed Fit Highly Distressed Jeans,1490.0,White,URBANIC,,,Casual,Solid,Regular,Knitted and Woven,Cotton,,864
 19293774.0,Tokyo Talkies Tokyo Talkies Women Green Solid Crop  Jacket,2399.0,Green,Tokyo Talkies,,,Casual,Solid,Regular,Woven,Cotton,,845
-19308702.0,Triyah Women Pink Solid Wrap Saree Blouse,2799.0,Pink,Triyah,,,Party,Solid,Regular,Knit,Other,,852
+19308702.0,Triyah Women Pink Solid Wrap Saree Blouse,2799.0,Pink,Triyah,,,Party,Solid,Regular,Knitted,Other,,852
 19308702.0,Triyah Women Pink Solid Wrap Saree Blouse,2799.0,Pink,Triyah,,,Party,Solid,Regular,Woven,Other,,852
 7275893.0,Belle Fille Women Teal Solid Sweatshirt,1699.0,Teal,Belle Fille,,,Casual,Solid,,Knitted and Woven,Fleece,,115
 7703779.0,aasi Navy Blue & Golden Printed High-Low Tunic,1499.0,Navy Blue,aasi,13.0,3.615384615,Ethnic,Printed,Regular,Knitted and Woven,Cotton,,957
@@ -8433,7 +8433,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 17157860.0,Readiprint Fashions Navy Blue Embellished Art Silk Unstitched Dress Material,5400.0,Navy Blue,Readiprint Fashions,,,Festive,Other,Regular,Woven,Art Silk,,690
 17681946.0,SHUBHKALA Blue Embellished Mirror Work Semi-Stitched Lehenga & Unstitched Blouse With Dupatta,22000.0,Blue,SHUBHKALA,,,Casual,Embellished,Regular,Knitted and Woven,Satin,,740
 18069202.0,Levis Women Blue 710 Super Skinny Fit Mid-Rise Heavy Fade Stretchable Jeans,2899.0,Blue,Levis,,,Casual,Solid,Regular,Knitted and Woven,Cotton,,481
-18255368.0,flaher Women Green & Golden Weaved Shimmer Readymade Padded Blouse,4500.0,Green,flaher,,,Festive,Solid,Regular,Knit,Other,,982
+18255368.0,flaher Women Green & Golden Weaved Shimmer Readymade Padded Blouse,4500.0,Green,flaher,,,Festive,Solid,Regular,Knitted,Other,,982
 18255368.0,flaher Women Green & Golden Weaved Shimmer Readymade Padded Blouse,4500.0,Green,flaher,,,Festive,Solid,Regular,Woven,Other,,982
 18652012.0,H&M Girls Pink & White Cotton Jersey Bow-detail Strappy Top,399.0,Pink,H&M,10.0,4.6,Casual,Tie and Dye,Regular,Knitted and Woven,Pure Cotton,,323
 18769616.0,Trendyol Women Beige & Brown Pure Cotton Colourblocked High-Rise Trousers,2799.0,Beige,Trendyol,,,Casual,Colourblocked,Regular,Woven,Cotton,,849
@@ -8820,7 +8820,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 17721582.0,ZOLA Women Blue Washed Lightweight Denim Jacket,2999.0,Blue,ZOLA,,,Casual,Washed,Regular,Woven,Cotton,,945
 17800572.0,Trendyol Women Blue & White Floral Print Top with Skirt,2299.0,Blue,Trendyol,,,Casual,Printed,Regular,Knitted and Woven,Viscose Rayon,,849
 18143468.0,Emeros White & Multicoloured Striped Wrap-style Jumpsuit,1699.0,White,emeros,,,Casual,Striped,Regular,Knitted and Woven,Polyester,,978
-18296352.0,flaher Green Mirror Work Embroidered Padded Readymade Blouse,6500.0,Green,flaher,,,Party,Embroidered,Regular,Knit,Other,,982
+18296352.0,flaher Green Mirror Work Embroidered Padded Readymade Blouse,6500.0,Green,flaher,,,Party,Embroidered,Regular,Knitted,Other,,982
 18296352.0,flaher Green Mirror Work Embroidered Padded Readymade Blouse,6500.0,Green,flaher,,,Party,Embroidered,Regular,Woven,Other,,982
 18336282.0,Shae by SASSAFRAS Women Olive Green  Mirror Lace Pencil Pants,1699.0,Olive,Shae by SASSAFRAS,,,Casual,Solid,Regular,Woven,Poly Silk,,772
 18929396.0,Vishudh Women Pink Thread Work Kurta with Trousers & Jacket,3299.0,Pink,Vishudh,,,Festive,Solid,Regular,Woven,Viscose Rayon,,901
@@ -9046,7 +9046,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 16552340.0,armure Women Maroon Lightweight Tailored Jacket,2999.0,Maroon,armure,,,Casual,Solid,Regular,Woven,Polyester,,966
 17256282.0,Readiprint Fashions Sea Green & White Embroidered Sequinned Unstitched Lehenga & Blouse With Dupatta,13950.0,Sea Green,Readiprint Fashions,,,Casual,Embroidered,Regular,Woven,Net,,690
 17813462.0,Trendyol Women Black & White Checked Jumpsuit,2799.0,Black,Trendyol,,,Casual,Checked,Regular,Knitted and Woven,Cotton,,849
-18450056.0,SALWAR STUDIO Women Copper Coloured Embellished Saree Blouse,4895.0,Copper,SALWAR STUDIO,,,Festive,Embroidered,Regular,Knit,Other,,716
+18450056.0,SALWAR STUDIO Women Copper Coloured Embellished Saree Blouse,4895.0,Copper,SALWAR STUDIO,,,Festive,Embroidered,Regular,Knitted,Other,,716
 18450056.0,SALWAR STUDIO Women Copper Coloured Embellished Saree Blouse,4895.0,Copper,SALWAR STUDIO,,,Festive,Embroidered,Regular,Woven,Other,,716
 18458296.0,BoStreet Women Blue Loose Fit High-Rise Denim Shorts,1699.0,Blue,BoStreet,,,Casual,Solid,Regular,Woven,Cotton,,133
 18693144.0,LC Waikiki White Solid Pure Cotton Top,899.0,White,LC Waikiki,,,Casual,Solid,Regular,Woven,Pure Cotton,,455
@@ -9884,7 +9884,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 16926668.0,HERE&NOW Women Maroon Pure Cotton Striped Kurta with Solid Trousers,2699.0,Maroon,HERE&NOW,8.0,4.375,Daily,Striped,Regular,Woven,Pure Cotton,,325
 17321736.0,FABNEST Women Blue Checked Co-Ords Set,2250.0,Blue,FABNEST,,,Casual,Checked,Regular,Knitted and Woven,Cotton Blend,,243
 17378518.0,HRX By Hrithik Roshan Lifestyle Women Jet Black Bio-Wash Solid Shorts,1699.0,Black,HRX by Hrithik Roshan,,,Sports,Striped,Regular,Knitted,Cotton,,333
-18055670.0,Swtantra Women Black Solid Halter Neck Saree Blouse,1999.0,Black,Swtantra,,,Party,Solid,Regular,Knit,Other,,808
+18055670.0,Swtantra Women Black Solid Halter Neck Saree Blouse,1999.0,Black,Swtantra,,,Party,Solid,Regular,Knitted,Other,,808
 18055670.0,Swtantra Women Black Solid Halter Neck Saree Blouse,1999.0,Black,Swtantra,,,Party,Solid,Regular,Woven,Other,,808
 18200592.0,MINOS Girls Black & White Checked Wrap Mini Skirt,1099.0,Black,MINOS,,,Casual,Checked,Regular,Knitted,Cotton Blend,,508
 11369616.0,W Women Blue & Silver Printed Straight Kurta,1899.0,Blue,W,388.0,4.198453608,Festive,Ethnic Motifs,Regular,Woven,Cotton,Pure,904
@@ -12488,7 +12488,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 14819732.0,Mast & Harbour Yellow & Black Printed Basic Jumpsuit,2299.0,Yellow,Mast & Harbour,58.0,4.25862069,Casual,Printed,Regular,Knitted and Woven,Polyester,,534
 15415068.0,Flying Machine Women Grey Solid Pure Cotton Sweatshirt,1899.0,Grey,Flying Machine,15.0,4.6,Casual,Solid,Regular,Knitted,Cotton,,287
 16336020.0,STREET 9 Women Bright Orange Typography Gym Kit Trousers,1999.0,Orange,STREET 9,,,Casual,Typography,Regular,Knitted,Cotton,,750
-17060030.0,NDS Niharikaa Designer Studio Women Off White Sequinned Padded Blouse,2439.0,Off White,NDS Niharikaa Designer Studio,,,Party,Embellished,Regular,Knit,Other,,567
+17060030.0,NDS Niharikaa Designer Studio Women Off White Sequinned Padded Blouse,2439.0,Off White,NDS Niharikaa Designer Studio,,,Party,Embellished,Regular,Knitted,Other,,567
 17060030.0,NDS Niharikaa Designer Studio Women Off White Sequinned Padded Blouse,2439.0,Off White,NDS Niharikaa Designer Studio,,,Party,Embellished,Regular,Woven,Other,,567
 17084426.0,Sanwara White Woven Design Dupatta with Mirror Work,2399.0,White,Sanwara,,,Party,Abstract,Regular,Woven,Poly Chiffon,,763
 17232410.0,InWeave Green Pure Cotton Print Parade Kurta Set,4299.0,Green,InWeave,14.0,4.428571429,Festive,Ethnic Motifs,Regular,Woven,Pure Cotton,,362
@@ -12647,7 +12647,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 18225432.0,Saree mall Ethnic Motifs Saree With Woven Design Border,3599.0,Pink,Saree mall,,,Traditional,Ethnic Motifs,Regular,Knitted and Woven,Cotton Blend,,765
 19046346.0,panchhi Pink & Sea Green Embellished Sequinned Semi-Stitched Lehenga & Ready to Wear Blouse With Dupatta,12999.0,Pink,panchhi,,,Casual,Embellished,Regular,Woven,Net,,1002
 19269316.0,BoStreet Women Yellow Printed Sweatshirt,2199.0,Yellow,BoStreet,,,Casual,Colourblocked,Regular,Knitted,Polyester,,133
-2380278.0,Janasya Black Cotton Lycra Saree Blouse,969.0,Black,Janasya,98.0,4.204081633,Daily,Solid,,Knit,Other,,393
+2380278.0,Janasya Black Cotton Lycra Saree Blouse,969.0,Black,Janasya,98.0,4.204081633,Daily,Solid,,Knitted,Other,,393
 2380278.0,Janasya Black Cotton Lycra Saree Blouse,969.0,Black,Janasya,98.0,4.204081633,Daily,Solid,,Woven,Other,,393
 10770516.0,Peppermint Girls Mauve Solid Straight Palazzos,899.0,Mauve,Peppermint,21.0,4.142857143,Western,Solid,,Woven,Polyester,,641
 12418804.0,Indo Era Women Maroon & Orange Yoke Design Kurta with Palazzos & Dupatta,2999.0,Maroon,Indo Era,814.0,4.343980344,Festive,Geometric,Regular,Woven,Pure Cotton,,370
@@ -12874,7 +12874,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 15262150.0,VOXATI Women Sea Green Longline Open Front Jacket,2599.0,Sea Green,VOXATI,,,Casual,Solid,Regular,Woven,Polyester,,887
 15673096.0,Missguided Women Beige Solid Regular Fit Shorts,2890.0,Beige,Missguided,,,Casual,Solid,Regular,Woven,Nylon,,547
 16454386.0,SPYKAR Women Black Relaxed Fit Mildly Distressed Pure Cotton Jeans,2699.0,Black,SPYKAR,,,Casual,Solid,Regular,Knitted and Woven,Cotton,,747
-17060082.0,NDS Niharikaa Designer Studio Women Cream-colored Sequinned Padded Blouse,2250.0,Cream,NDS Niharikaa Designer Studio,,,Festive,Embellished,Regular,Knit,Other,,567
+17060082.0,NDS Niharikaa Designer Studio Women Cream-colored Sequinned Padded Blouse,2250.0,Cream,NDS Niharikaa Designer Studio,,,Festive,Embellished,Regular,Knitted,Other,,567
 17060082.0,NDS Niharikaa Designer Studio Women Cream-colored Sequinned Padded Blouse,2250.0,Cream,NDS Niharikaa Designer Studio,,,Festive,Embellished,Regular,Woven,Other,,567
 17093944.0,Anouk Women Pink Pure Cotton Solid Kurta,1699.0,Pink,Anouk,58.0,3.724137931,Daily,Solid,Regular,Woven,Cotton,Pure,76
 17159806.0,Columbia Women Navy Blue Solid High Rise Slim Fit Trousers,5999.0,Navy Blue,Columbia,,,Casual,Solid,Regular,Woven,Polyester,,176
@@ -13866,7 +13866,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 15200328.0,Clora Creation Women Magenta & Gold-Toned Ethnic Motifs Hem Design Palazzos,899.0,Magenta,Clora Creation,3.0,4.333333333,Western,Ethnic Motifs,Regular,Woven,Viscose Rayon,,167
 16911472.0,People Women Orange Acrylic Longline Poncho,1499.0,Orange,People,,,Casual,Solid,Regular,Knitted,Acrylic,,639
 17351596.0,anayna Women Black & White Ethnic Motifs Printed Kantha Work Kurta,1599.0,Black,anayna,36.0,4.583333333,Daily,Ethnic Motifs,Regular,Woven,Cotton,Pure,962
-17690172.0,SALWAR STUDIO Women Silver Embellished Saree Blouse,4025.0,Silver,SALWAR STUDIO,,,Daily,Embellished,Regular,Knit,Other,,716
+17690172.0,SALWAR STUDIO Women Silver Embellished Saree Blouse,4025.0,Silver,SALWAR STUDIO,,,Daily,Embellished,Regular,Knitted,Other,,716
 17690172.0,SALWAR STUDIO Women Silver Embellished Saree Blouse,4025.0,Silver,SALWAR STUDIO,,,Daily,Embellished,Regular,Woven,Other,,716
 17932220.0,WHITE FIRE Blue & Pink Embellished Sequinned Semi-Stitched Lehenga & Unstitched Blouse With Dupatta,18000.0,Blue,WHITE FIRE,,,Casual,Embellished,Regular,Woven,Tissue,,909
 18623608.0,UNITED LIBERTY Women Teal Relaxed Easy Wash Trousers,1999.0,Teal,UNITED LIBERTY,,,Casual,Solid,Sustainable,Woven,Cotton,,863
@@ -13939,7 +13939,7 @@ p_id,name,price,colour,brand,ratingCount,avg_rating,Occasion,Print_Pattern_Type,
 19043908.0,max Women Plus Size Black Print Tie-Up Neck Top,999.0,Black,max,,,Casual,Polka Dots,Regular,Knitted and Woven,Polyester,,994
 7582828.0,United Colors of Benetton Women Blue Skinny Fit Mid-Rise Clean Look Jeans,4999.0,Blue,United Colors of Benetton,15.0,4.0,Casual,Solid,,Knitted and Woven,Cotton,,867
 12313110.0,Souchii Women Beige Solid Cotton Dupatta with Tassels,449.0,Beige,Souchii,,,Daily,Solid,Regular,Knitted and Woven,Pure Cotton,,789
-13164016.0,SALWAR STUDIO Women Gold-Coloured Embroidered Readymade Saree Blouse,4155.0,Gold,SALWAR STUDIO,50.0,3.96,Festive,Embroidered,Regular,Knit,Other,,716
+13164016.0,SALWAR STUDIO Women Gold-Coloured Embroidered Readymade Saree Blouse,4155.0,Gold,SALWAR STUDIO,50.0,3.96,Festive,Embroidered,Regular,Knitted,Other,,716
 13164016.0,SALWAR STUDIO Women Gold-Coloured Embroidered Readymade Saree Blouse,4155.0,Gold,SALWAR STUDIO,50.0,3.96,Festive,Embroidered,Regular,Woven,Other,,716
 13642428.0,Alsace Lorraine Paris Women Burgundy & Grey Floral Printed Skorts,1499.0,Burgundy,Alsace Lorraine Paris,24.0,3.166666667,Casual,Floral,Sustainable,Woven,Polyester,,64
 13884414.0,MANGO Women Sustainable Black Pure Cotton Eco-Wash Solid Denim Jacket,4590.0,Black,MANGO,,,Casual,Solid,Sustainable,Woven,Cotton,,498
